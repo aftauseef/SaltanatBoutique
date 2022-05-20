@@ -1,0 +1,39 @@
+.prop3 {text-align: center;}
+body {background-color: #faf1f0;}
+
+.prop1 {background-color: pink;}
+.prop2 {text-align:center;}
+.prop4 { background-color: red;}
+.prop5 {border :2px solid green;}
+
+#tt { 
+      position: relative;
+      
+	  left: 25%;
+    }
+
+#tab   {
+        position:absolute;
+	    width: 100%;
+	    top:90px;
+	    left: 0px;
+	  
+
+       }
+#title { text-align: center;
+        font-size: 80px;
+        font-family: Bahnschrift;
+		padding-top: 0px;
+        position:absolute;
+	    width: 100%;
+	    left: 0px;
+	    top:0px;
+		height: 145px;
+        color: green;
+	    background-color: pink;
+	   }
+
+	  
+a    {color: green;
+      text-decoration: none;
+	 }
